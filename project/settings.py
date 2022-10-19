@@ -124,8 +124,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 #EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
-EMAIL_BACKEND = 'django_ses.SESBackend'
-AWS_ACCESS_KEY_ID = 'AKIASAYAO4JAMUSH7DFA'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_SES_REGION_NAME = 'ap-south-1'
-AWS_SES_REGION_ENDPOINT ='email.ap-south-1.amazonaws.com'
+EMAIL_BACKEND = ''
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
+AWS_SES_REGION_NAME = ''
+AWS_SES_REGION_ENDPOINT =''
